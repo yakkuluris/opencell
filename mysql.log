@@ -1,0 +1,6 @@
+2018-01-08T05:16:39.234539Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-01-08T05:16:45.444775Z 0 [Warning] InnoDB: Resizing redo log from 2*3072 to 2*320 pages, LSN=2472093
+2018-01-08T05:16:45.763001Z 0 [Warning] InnoDB: Starting to delete and rewrite log files.
+2018-01-08T05:16:46.261357Z 0 [Warning] InnoDB: New log files created, LSN=2472093
+2018-01-08T06:34:29.068155Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-01-08T07:06:36.796595Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.

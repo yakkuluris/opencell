@@ -1,0 +1,40 @@
+[Mon Jan 08 10:59:44.648665 2018] [auth_digest:notice] [pid 3340:tid 460] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 10:59:46.400111 2018] [mpm_winnt:notice] [pid 3340:tid 460] AH00455: Apache/2.4.17 (Win64) PHP/5.6.16 configured -- resuming normal operations
+[Mon Jan 08 10:59:46.401111 2018] [mpm_winnt:notice] [pid 3340:tid 460] AH00456: Apache Lounge VC14 Server built: Oct 11 2015 11:49:07
+[Mon Jan 08 10:59:46.401111 2018] [core:notice] [pid 3340:tid 460] AH00094: Command line: 'C:\\wamp64\\bin\\apache\\apache2.4.17\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.17'
+[Mon Jan 08 10:59:46.406115 2018] [mpm_winnt:notice] [pid 3340:tid 460] AH00418: Parent: Created child process 6968
+[Mon Jan 08 10:59:47.115686 2018] [auth_digest:notice] [pid 6968:tid 376] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 10:59:47.203749 2018] [mpm_winnt:notice] [pid 6968:tid 376] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 08 11:14:31.631501 2018] [authz_core:error] [pid 6968:tid 1036] [client 192.168.1.101:50018] AH01630: client denied by server configuration: C:/wamp64/www/concerto-platform
+[Mon Jan 08 11:14:31.735590 2018] [authz_core:error] [pid 6968:tid 1036] [client 192.168.1.101:50018] AH01630: client denied by server configuration: C:/wamp64/www/favicon.ico
+[Mon Jan 08 11:49:53.659210 2018] [mpm_winnt:notice] [pid 3340:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 08 11:49:55.706099 2018] [mpm_winnt:notice] [pid 6968:tid 376] AH00364: Child: All worker threads have exited.
+[Mon Jan 08 11:49:56.018605 2018] [mpm_winnt:notice] [pid 3340:tid 460] AH00430: Parent: Child process 6968 exited successfully.
+[Mon Jan 08 12:04:35.619983 2018] [auth_digest:notice] [pid 4480:tid 424] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 12:04:36.926703 2018] [mpm_winnt:notice] [pid 4480:tid 424] AH00455: Apache/2.4.17 (Win64) PHP/5.6.16 configured -- resuming normal operations
+[Mon Jan 08 12:04:36.926703 2018] [mpm_winnt:notice] [pid 4480:tid 424] AH00456: Apache Lounge VC14 Server built: Oct 11 2015 11:49:07
+[Mon Jan 08 12:04:36.926703 2018] [core:notice] [pid 4480:tid 424] AH00094: Command line: 'C:\\wamp64\\bin\\apache\\apache2.4.17\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.17'
+[Mon Jan 08 12:04:36.932708 2018] [mpm_winnt:notice] [pid 4480:tid 424] AH00418: Parent: Created child process 5936
+[Mon Jan 08 12:04:37.577165 2018] [auth_digest:notice] [pid 5936:tid 384] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 12:04:37.655219 2018] [mpm_winnt:notice] [pid 5936:tid 384] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 08 12:12:31.338063 2018] [mpm_winnt:notice] [pid 4480:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 08 12:12:33.369351 2018] [mpm_winnt:notice] [pid 5936:tid 384] AH00364: Child: All worker threads have exited.
+[Mon Jan 08 12:12:33.681839 2018] [mpm_winnt:notice] [pid 4480:tid 424] AH00430: Parent: Child process 5936 exited successfully.
+[Mon Jan 08 12:36:52.878600 2018] [auth_digest:notice] [pid 8036:tid 480] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 12:36:56.502015 2018] [mpm_winnt:notice] [pid 8036:tid 480] AH00455: Apache/2.4.17 (Win64) PHP/5.6.16 configured -- resuming normal operations
+[Mon Jan 08 12:36:56.502015 2018] [mpm_winnt:notice] [pid 8036:tid 480] AH00456: Apache Lounge VC14 Server built: Oct 11 2015 11:49:07
+[Mon Jan 08 12:36:56.503016 2018] [core:notice] [pid 8036:tid 480] AH00094: Command line: 'C:\\wamp64\\bin\\apache\\apache2.4.17\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.17'
+[Mon Jan 08 12:36:56.508019 2018] [mpm_winnt:notice] [pid 8036:tid 480] AH00418: Parent: Created child process 8136
+[Mon Jan 08 12:36:57.189506 2018] [auth_digest:notice] [pid 8136:tid 360] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 12:36:57.272567 2018] [mpm_winnt:notice] [pid 8136:tid 360] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 08 12:39:45.384139 2018] [:error] [pid 8136:tid 1012] [client ::1:49506] script 'C:/wamp64/www/app_dev.php' not found or unable to stat
+[Mon Jan 08 13:06:03.410967 2018] [mpm_winnt:notice] [pid 8036:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 08 13:06:05.412914 2018] [mpm_winnt:notice] [pid 8136:tid 360] AH00364: Child: All worker threads have exited.
+[Mon Jan 08 13:06:05.649069 2018] [mpm_winnt:notice] [pid 8036:tid 480] AH00430: Parent: Child process 8136 exited successfully.
+[Mon Jan 08 13:06:08.119720 2018] [auth_digest:notice] [pid 5452:tid 440] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 13:06:08.196897 2018] [mpm_winnt:notice] [pid 5452:tid 440] AH00455: Apache/2.4.17 (Win64) PHP/5.6.16 configured -- resuming normal operations
+[Mon Jan 08 13:06:08.196897 2018] [mpm_winnt:notice] [pid 5452:tid 440] AH00456: Apache Lounge VC14 Server built: Oct 11 2015 11:49:07
+[Mon Jan 08 13:06:08.196897 2018] [core:notice] [pid 5452:tid 440] AH00094: Command line: 'C:\\wamp64\\bin\\apache\\apache2.4.17\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.17'
+[Mon Jan 08 13:06:08.202896 2018] [mpm_winnt:notice] [pid 5452:tid 440] AH00418: Parent: Created child process 7864
+[Mon Jan 08 13:06:08.948431 2018] [auth_digest:notice] [pid 7864:tid 372] AH01757: generating secret for digest authentication ...
+[Mon Jan 08 13:06:09.030489 2018] [mpm_winnt:notice] [pid 7864:tid 372] AH00354: Child: Starting 64 worker threads.
